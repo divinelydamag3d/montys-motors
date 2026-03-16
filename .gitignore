@@ -1,0 +1,10 @@
+.env
+.streamlit/secrets.toml
+montys_motors_db.sqlite
+__pycache__/
+*.pyc
+.DS_Store
+*.zip
+venv/
+.vscode/
+.idea/
