@@ -1,0 +1,15 @@
+streamlit
+pandas
+requests
+langchain
+langchain-openai
+langchain-community
+easyocr
+pillow
+python-dotenv
+reportlab
+streamlit-authenticator
+bcrypt
+pyyaml
+python-quickbooks
+intuit-oauth
