@@ -78,6 +78,10 @@ if menu == 'Login':
 
 # Other features for admin dashboard, chat and scheduling will go here
 
-st.markdown('---')
-st.markdown('**Contact us:**
-123 Main St, Motor City\n555-555-5555')
+st.markdown("""
+**Contact us:**  
+601 E Fry Blvd  
+Sierra Vista, AZ  
+520-458-2061  
+[www.montysmotors.com](https://www.montysmotors.com)
+""")
